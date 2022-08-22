@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm samuel aniekan  
+
+
+#### A Web developer from Port Harcourt, Rivers state, Nigeria 🇳🇬 
+
 
 <!--
 **devla-d/devla-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### TECHNOLOGIES I WORK WITH
+ ![django](icons8-django-144.png)
+ ![Javascript 🚀](icons8-javascript-logo.png)
+ ![Typescript 🚀](typescript.png)
+ ![Vue.js 🚀](vuejs.png)
+ ![React.js 🚀](react.png)
+ ![Node.js](nodejs.png)
+![ Solidity 🥇](solidity.png)
+
+
+- Django/Django Rest Framework
+- Javascript 
+- Typescript 
+- Vue.js 
+- React.js 
+- Node.js/express.js 
+- Etherjs 
+- Solidity 
+
+
+
+#### What am currently .... 
+
+- 🔭 I’m currently working on something big
+- 🌱 I’m currently learning Blockchain software development
+- 👯 I’m looking to collaborate with you
+- 🤔 I’m looking to help with Anything website related
+- 📫 How to reach me: @_devlad twitter
+- ⚡ Fun fact: i love  vidoe games and anime 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devla-d&layout=compact)](https://github.com/alabo-excel/github-readme-stats)
+![Devlad's github stats](https://github-readme-stats.vercel.app/api?username=devla-d&show_icons=true)
