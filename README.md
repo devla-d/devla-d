@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devla-d&layout=compact&langs_count=11)](https://github.com/alabo-excel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devla-d&layout=compact&langs_count=11&hide=html)](https://github.com/alabo-excel/github-readme-stats)
 ![Devlad's github stats](https://github-readme-stats.vercel.app/api?username=devla-d&show_icons=true)
 
 
