@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 - Django/Django Rest Framework
 - Javascript 
 - Typescript 
-- Vue.js 
 - React.js 
-- Node.js/express.js 
-- Etherjs 
-- Solidity 
+- Node.js/express.js (Not production ready)
+- Solidity(learning)
 
 
 
